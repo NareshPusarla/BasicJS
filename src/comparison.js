@@ -6,4 +6,3 @@ for(let i = 0; i<5; i++){
 console.log(random);
 console.log(random.sort());
 console.log(random[0],random[4]);
-
